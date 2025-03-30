@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hello, I'm Gabriel, but everyone calls me by my surname, Azevedo. I'm experienced in full stack development and related technologies.<br>
+  Hello, I'm Gabriel, but everyone calls me by my surname, Azevedo. I'm experienced in full-stack development and related technologies.<br>
   I'm a Junior Developer at a brazilian govtech and a software engineering undergraduate at the Catholic University of Salvador
 </p>
 
 <p align="left">
-  💌 Feel free to reach out to me! ⤵️
+  💌 Feel free to reach out! ⤵️
 </p>
 
 <p align="left">
