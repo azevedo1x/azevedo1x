@@ -1,16 +1,15 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**azevedo1x/azevedo1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Hello, I'm Gabriel, but everyone calls me by my surname, Azevedo. I'm experienced in full stack development and related technologies.<br>
+  I'm a Junior Developer at a brazilian govtech and a software engineering undergraduate at the Catholic University of Salvador
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  💌 Feel free to reach out to me! ⤵️
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabriel.azeve04@gmail.com" alt="Gmail"/></a>
+</p>
