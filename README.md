@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  💌 Feel free to reach out! ⤵️
+  Feel free to reach out below.
 </p>
 
 <p align="left">
