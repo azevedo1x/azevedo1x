@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 <p align="left"> 
-  Hello there, i'm Gabriel and i'm a Mid Level Developer at a brazilian govtech and a software engineering undergraduate at the Catholic University of Salvador.
+  Hi, I'm Gabriel, a mid level web developer at a brazilian govtech and also, a software engineering undergraduate at the Catholic University of Salvador.
 </p>
 
 <p align="left">
