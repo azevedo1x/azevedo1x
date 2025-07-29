@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="if (image.tooManyRequests) throw new BadRequestException" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="if (image.tooManyRequests) throw new WelcomeToMyProfileException" min-width="200px" max-width="200px" width="200px" align="right">
 
 <p align="left"> 
   Hi, I'm Gabriel, a mid level web developer at a brazilian govtech and a software engineering undergraduate at the Catholic University of Salvador.
