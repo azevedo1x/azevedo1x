@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="if (image.tooManyRequests) throw new WelcomeToMyProfileException" min-width="200px" max-width="200px" width="200px" align="right">
 
 <p align="left"> 
-  Hi, I'm Gabriel, a mid level software engineer graduated from the Catholic University of Salvador, who works at a brazilian govtech.
+  Hi, I'm Gabriel, a mid level software engineer graduated from the Catholic University of Salvador.
 </p>
 
 <p align="left">
